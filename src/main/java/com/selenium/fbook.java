@@ -21,5 +21,6 @@ public class fbook {
 		mobile.sendKeys("ganeshkodimoju52@gmail.com");
 		pass.sendKeys("Ganesh@23");
 		submit.click();
+		System.out.println("hdhjk");
 	}
 }
